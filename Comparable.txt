@@ -22,7 +22,7 @@ class Student implements Comparable<Student>{
     }
 }
 
-class MainStudent {
+class MainStudent1 {
     public static void main(String[] args) {
     List<Student> al = new ArrayList<>();
     al.add(new Student(101, "John", 3));
